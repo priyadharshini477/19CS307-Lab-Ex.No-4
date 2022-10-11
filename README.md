@@ -1,5 +1,5 @@
 # 19CS307-Lab-Ex.No-4
-# Lab Exercise 4
+# HTML Tables
 # Date : 20-09-2022
 # AIM :
 To compose the HTML code to create the Invoice shown in the HTML Tables pdf :
@@ -32,4 +32,4 @@ To compose the HTML code to create the Invoice shown in the HTML Tables pdf :
 
 
 
- # Result : Thus the above equations were formatted by HTML tags as indicated and the required output was obtained.
+ # Result : Thus the required invoice using HTML table tags was obtained.
